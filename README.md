@@ -1,4 +1,4 @@
-# GAD_CorticalThickness_2023
+# CorticalThickness_GA
 
 
 Topographical Similarity of Cortical Thickness Represents Generalized Anxiety Symptoms in Adolescence (2023)
