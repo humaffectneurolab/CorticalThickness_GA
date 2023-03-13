@@ -90,7 +90,7 @@ sub_list = np.array(sub_list)
 data = []
 
 for sub in sub_list:
-    loaddata = load(os.path.join(data_dir, 'rh', f'{sub}_rh.thickness.fsaverage.mgh'))
+    loaddata = load(os.path.join(data_dir, 'lh', f'{sub}_lh.thickness.fsaverage.mgh'))
     for_reshape = loaddata.get_fdata()
     for_reshape = for_reshape.reshape(163842, 1*1)
     data.append(for_reshape)
