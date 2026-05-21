@@ -12,4 +12,4 @@ Behavioral data and neuroimaging data utilized in this code can be accessed thro
 
 These data need to be preprocessed in order to be subject to input for this code. Behavioral data were manipulated in Python. Neuroimaging data were preprocessed using fMRIprep and FreeSurfer, following procedures described in detail in the manuscript.
 
-Published manuscript: linkinghub.elsevier.com/retrieve/pii/S0361923023001533
+Published manuscript: https://linkinghub.elsevier.com/retrieve/pii/S0361923023001533
