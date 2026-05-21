@@ -11,3 +11,5 @@ Visualizations were done through the R package ggplot3d.
 Behavioral data and neuroimaging data utilized in this code can be accessed through: http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/.
 
 These data need to be preprocessed in order to be subject to input for this code. Behavioral data were manipulated in Python. Neuroimaging data were preprocessed using fMRIprep and FreeSurfer, following procedures described in detail in the manuscript.
+
+Yoo C & Kim MJ (2023). Topological similarity of cortical thickness represents generalized anxiety symptoms in adolescence. _Brain Research Bulletin_, 202, 110728.   
